@@ -1,0 +1,72 @@
+{"spells": [
+  {
+    "description": "Summons an object towards the caster.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_accio_light.png",
+    "name": "Accio"
+  },
+  {
+    "description": "Produces a clean, drinkable jet of water from the wand tip.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_aguamenti_3_light.png",
+    "name": "Aguamenti"
+  },
+  {
+    "description": "The Unlocking Charm (Alohomora), also known as the Thief’s Friend is a charm that unlocks the target, including doors, windows or other objects.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_alohomora_3_light.png",
+    "name": "Alohomora"
+  },
+  {
+    "description": "Also known as the Slowing Charm. Slows down the velocity of an object.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_arrestomomentum_3_light.png",
+    "name": "Arresto Momentum"
+  },
+  {
+    "description": "Also known as the Exploding Charm. Detonates the target in a small explosion. Used for opening sealed doors and window bars.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_bombarda_3_light.png",
+    "name": "Bombarda"
+  },
+  {
+    "description": "A generic offensive spell.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_combatpath0004_light.png",
+    "name": "Combat Bolt"
+  },
+  {
+    "description": "The Severing Charm, which can be used to cut absolutely anything",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_diffindo_light.png",
+    "name": "Diffindo"
+  },
+  {
+    "description": "Entraps the targeted individual, or indeed any target, in a very large bubble that cannot be popped by physical force.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_ebublio_3_light.png",
+    "name": "Ebublio"
+  },
+  {
+    "description": "A difficult spell, and the only known defence against Dementors",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_expectopatronum_3_light.png",
+    "name": "Expecto Patronum"
+  },
+  {
+    "description": "Finite Incantatem is a spell that causes easier ongoing spells and jinxes to stop.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_finite_3_light.png",
+    "name": "Finite"
+  },
+  {
+    "description": "A jinx that knocks back the target back",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_flipendo_3_light.png",
+    "name": "Flipendo"
+  },
+  {
+    "description": "A spell for starting fires",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_incendio_3_light.png",
+    "name": "Incendio"
+  },
+  {
+    "description": "Meteolojinx Recanto is the incantation to a counter-charm that presumably causes weather effects caused by Weather-Modifying Charms.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_meteolojinxrecanto_3_light.png",
+    "name": "Meteolojinx Recanto"
+  },
+  {
+    "description": "A spell used when fighting a Boggart, “Riddikulus” forces the Boggart to take the appearance of an object the caster is focusing on.",
+    "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/spellpath_ridikkulus_3_light.png",
+    "name": "Riddikkulus"
+  }
+]}

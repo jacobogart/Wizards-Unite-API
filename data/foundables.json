@@ -1,0 +1,274 @@
+{
+  "foundables": [
+    {
+      "description": "Abraxan is a breed of large, powerful winged horses with a palomino colouring. A team of Abraxan winged horses were used to transport a carriage filled with Beauxbatons students to Hogwarts for the Triwizard Tournament of 1994.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg03_sticker02_returned.png",
+      "name": "Abraxan Winged Horse",
+      "page": "Hagrid's Hut",
+      "threatLevel": "Emergency",
+      "spell": "Arresto Momentum"
+    },
+    {
+      "description": "Acromantula Eggs are Class A Non-Tradeable Goods. Females can lay up to one hundred eggs at a time, and the eggs are roughly the size of beach balls.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg01_sticker05_returned.png",
+      "name": "Acromantula Eggs",
+      "page": "Pumpkin Patch",
+      "threatLevel": "Low",
+      "spell": "Accio"
+    },
+    {
+      "description": "Hippogriffs build nests upon the ground for their young where they lay a single large, fragile egg which hatches within a remarkable 24 hours. Infant Hippogriffs can fly within a week of hatching.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg01_sticker02_returned.png",
+      "name": "Baby Hippogriff",
+      "page": "Pumpkin Patch",
+      "threatLevel": "Low",
+      "spell": "Combat Bolt"
+    },
+    {
+      "description": "Native to Norway, young Norwegian Ridgebacks develop the skill to breathe fire earlier than any other dragon breed. Hagrid illegally hatched a baby Norwegian Ridgeback, Norberta, who was eventually raised in a dragon sanctuary.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg03_sticker05_returned.png",
+      "name": "Baby Norwegian Ridgeback",
+      "page": "Hagrid's Hut",
+      "threatLevel": "3",
+      "spell": "Finite"
+    },
+    {
+      "description": "Unicorn foals are initially gold in colour before turning silver and then white as they mature. Unicorns inhabit the forests of Europe and their horn, blood, and hair all have coveted magical properties.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg02_sticker04_returned.png",
+      "name": "Baby Unicorn",
+      "page": "Forbidden Forest",
+      "threatLevel": "Medium",
+      "spell": "Incendio"
+    },
+    {
+      "description": "Blast-Ended Skrewts, controversially bred by Rubeus Hagrid, are a cross between Manticores and Fire Crabs. Aggressive and ill-tempered, male Blast-Ended Skrewts have stingers, while the females have suckers in order to suck blood.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg02_sticker06_returned.png",
+      "name": "Blast-Ended Skrewt",
+      "page": "Forbidden Forest",
+      "threatLevel": "Medium",
+      "spell": "Aguamenti"
+    },
+    {
+      "description": "Buckbeak was a Hippogriff saved by Harry Potter from an unfair execution. Buckbeak was instrumental in enabling Sirius Black to escape the Dementors and leave Hogwarts.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg03_sticker04_returned.png",
+      "name": "Buckbeak",
+      "page": "Hagrid's Hut",
+      "threatLevel": "Severe",
+      "spell": "Riddikkulus"
+    },
+    {
+      "description": "Dragon mothers are extremely protective of their eggs, breathing fire on them to keep them warm and incubate their young. Dragon Eggs are classified as Class A Non-Tradeable Material.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg02_sticker05_returned.png",
+      "name": "Dragon Egg",
+      "page": "Forbidden Forest",
+      "threatLevel": "Medium",
+      "spell": "Incendio"
+    },
+    {
+      "description": "Firenze is a Centaur who lives within the Forbidden Forest. He briefly broke with Centaur tradition and taught Divination at Hogwarts School of Witchcraft and Wizardry before eventually returning to his colony following the Battle of Hogwarts.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg02_sticker02_returned.png",
+      "name": "Firenze",
+      "page": "Forbidden Forest",
+      "threatLevel": "Severe",
+      "spell": "Ebublio"
+    },
+    {
+      "description": "Large, toothless brown worms, Flobberworms have the Beast Classification of X, the lowest classification on record, known simply as “boring”.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg01_sticker03_returned.png",
+      "name": "Flobberworm",
+      "page": "Pumpkin Patch",
+      "threatLevel": "Low",
+      "spell": "Finite"
+    },
+    {
+      "description": "This small, wooden cabin nestled into the edge of the Forbidden Forest is the long time home of Rubeus Hagrid, the gamekeeper and Professor of Care of Magical Creatures at Hogwarts.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg03_sticker01_returned.png",
+      "name": "Hagrid’s Hut",
+      "page": "Hagrid's Hut",
+      "threatLevel": "Emergency",
+      "spell": "Diffindo"
+    },
+    {
+      "description": "A Hippogriff is a flying magical creature with the head, talons, and wings of an eagle, and body, tail, and rear end of a horse. Hippogriffs are native to Europe and can make noble companions if shown the right level of respect.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg02_sticker03_returned.png",
+      "name": "Hippogriff",
+      "page": "Forbidden Forest",
+      "threatLevel": "High",
+      "spell": "Aguamenti"
+    },
+    {
+      "description": "An excellent pet for any witch or wizard, Kneazles are magical felines with a high intelligence and the ability to detect suspicious people. They are often bred with normal housecats, as purebred Kneazles require a special license to own.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg01_sticker04_returned.png",
+      "name": "Kneazle",
+      "page": "Pumpkin Patch",
+      "threatLevel": "Low",
+      "spell": "Expecto Patronum"
+    },
+    {
+      "description": "The Monster Book of Monsters is an incredibly vicious fanged textbook used by Rubeus Hagrid when he taught Care of Magical Creatures. Opening the book requires that the user tame it by gently stroking its spine.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg01_sticker01_returned.png",
+      "name": "Monster Book of Monsters",
+      "page": "Pumpkin Patch",
+      "threatLevel": "Medium",
+      "spell": "Alohomora"
+    },
+    {
+      "description": "A popular pet for wizarding children, a Puffskein is a docile magical creature covered in fur. They are easy to care for, and have no objection to being cuddled or thrown about.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg02_sticker01_returned.png",
+      "name": "Puffskein",
+      "page": "Forbidden Forest",
+      "threatLevel": "Low",
+      "spell": "Arresto Momentum"
+    },
+    {
+      "description": "Half-Giant, gamekeeper, and Professor of Care of Magical Creatures, Rubeus Hagrid has an affinity for tea, gardening, and magical creatures (especially of the extremely dangerous variety). He is rarely seen without his faithful boarhound, Fang, by his side.",
+      "family": "Care of Magical Creatures",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family03_pg03_sticker03_returned.png",
+      "name": "Rubeus Hagrid",
+      "page": "Hagrid's Hut",
+      "threatLevel": "Emergency",
+      "spell": "Ebublio"
+    },
+    {
+      "description": "Flesh-Eating Slugs are a breed of magical garden slugs, commonly found in Great Britain. Their mucus has a corrosive effect on the skin, and it is recommended to use a specialized repellent to deal with these pests.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg01_sticker05_returned.png",
+      "name": "Flesh-Eating Slugs",
+      "page": "Borgin & Burkes",
+      "threatLevel": "Low",
+      "spell": "Accio"
+    },
+    {
+      "description": "Hags are beings that feast on children and appear as very old, ugly witches. Possessing very rudimentary magic, hags have appeared in Muggle fairy tales as a wholly stereotypical and unenlightened depiction of a “witch”.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg02_sticker03_returned.png",
+      "name": "Hag",
+      "page": "Knockturn Alley",
+      "threatLevel": "Medium",
+      "spell": "Finite"
+    },
+    {
+      "description": "Best friend of thieves and plunderers, a Hand of Glory is a shriveled up hand that gives light only to the one who holds it, even in complete darkness.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg01_sticker03_returned.png",
+      "name": "Hand of Glory",
+      "page": "Borgin & Burkes",
+      "threatLevel": "Low",
+      "spell": "Alohomora"
+    },
+    {
+      "description": "Neighbouring the bustling marketplace of Diagon Alley, Knockturn Alley features niche stores that sell artefacts and supplies for Dark magic. Knockturn Alley has a reputation for being frequented by the less savoury members of the wizarding world.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg02_sticker01_returned.png",
+      "name": "Knockturn Alley Sign",
+      "page": "Knockturn Alley",
+      "threatLevel": "Emergency",
+      "spell": "Diffindo"
+    },
+    {
+      "description": "The Magic is Might statue, a tribute to blood purity within the wizarding world, replaced the Fountain of Magical Brethren in the Ministry's atrium during Lord Voldemort's brief reign. It depicted the superiority of wizards and witches over Muggles.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg03_sticker01_returned.png",
+      "name": "Magic is Might Statue",
+      "page": "Fallen Ministry Atrium",
+      "threatLevel": "Emergency",
+      "spell": "Incendio"
+    },
+    {
+      "description": "Magick Moste Evile was written by Godelot, one-time owner of the Elder Wand. Despite being a detailed exploration of the Dark Arts, it has no relevant information regarding Horcruxes. It will, however, emit a ghostly wail when slammed shut.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg01_sticker04_returned.png",
+      "name": "Magick Moste Evile",
+      "page": "Borgin & Burkes",
+      "threatLevel": "Low",
+      "spell": "Meteolojinx Recanto"
+    },
+    {
+      "description": "Ministry Executioners are tasked with executing magical creatures that have been deemed too dangerous by the Ministry of Magic. Walden Macnair, a ministry executioner was famously tasked with the execution of Buckbeak the Hippogriff.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg02_sticker04_returned.png",
+      "name": "Ministry Executioner",
+      "page": "Knockturn Alley",
+      "threatLevel": "Medium",
+      "spell": "Bombarda"
+    },
+    {
+      "description": "A skilled Auror, Percival Graves was head of the Department of Magical Law Enforcement within the Magical Congress of the United States. In 1926, Graves was impersonated by Gellert Grindelwald.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg03_sticker04_returned.png",
+      "name": "Percival Graves",
+      "page": "Fallen Ministry Atrium",
+      "threatLevel": "Severe",
+      "spell": "Riddikkulus"
+    },
+    {
+      "description": "Bellatrix Lestrange was one of Voldemort's most loyal and fanatical followers, known for her sadistic, unpredictable nature. Sentenced to life in prison at Azkaban for the torture of Alice and Frank Longbottom, she was killed at the Battle of Hogwarts.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg02_sticker06_returned.png",
+      "name": "Portrait of Bellatrix Lestrange",
+      "page": "Knockturn Alley",
+      "threatLevel": "Medium",
+      "spell": "Meteolojinx Recanto"
+    },
+    {
+      "description": "Lord Voldemort was one of the most powerful and dangerous Dark wizards of all time, obsessed with finding the key to immortality. A portrait is regarded as only a representation of the living subject as seen by the artist.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg03_sticker05_returned.png",
+      "name": "Portrait of Voldemort",
+      "page": "Fallen Ministry Atrium",
+      "threatLevel": "High",
+      "spell": "Flipendo"
+    },
+    {
+      "description": "Swooping Evils are large flying magical creatures, and practice a form of encephalophagy - they are known to feed off of brains. It is recommended that only skilled magizoologists handle Swooping Evils.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg02_sticker02_returned.png",
+      "name": "Swooping Evil",
+      "page": "Knockturn Alley",
+      "threatLevel": "Severe",
+      "spell": "Combat Bolt"
+    },
+    {
+      "description": "Thestrals are gaunt, ghostly winged horses with leathery bat-like wings and reptilian facial features, invisible to all except those who have witnessed death. Excellent mounts, they can travel at incredible speed and cover vast distances.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg02_sticker05_returned.png",
+      "name": "Thestral",
+      "page": "Knockturn Alley",
+      "threatLevel": "High",
+      "spell": "Bombarda"
+    },
+    {
+      "description": "Tom Riddle's mother died shortly after giving birth to him at Wool's Orphanage. Albus Dumbledore recognized his magical potential and offered Tom a place at Hogwarts. The talented, disturbed youngster would grow up to become the notorious Lord Voldemort.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg03_sticker03_returned.png",
+      "name": "Tom Riddle",
+      "page": "Fallen Ministry Atrium",
+      "threatLevel": "Emergency",
+      "spell": "Arresto Momentum"
+    },
+    {
+      "description": "Tom Riddle Sr. was buried in Little Hangleton graveyard after he was murdered by his son - Lord Voldemort. His bones were later exhumed and used in Lord Voldemort's resurrection.",
+      "family": "Dark Arts",
+      "image": "https://wizardsunitehub.info/wp-content/uploads/2019/04/ui_registry_family02_pg03_sticker02_returned.png",
+      "name": "Tom Riddle Sr.’s Gravestone",
+      "page": "Fallen Ministry Atrium",
+      "threatLevel": "Emergency",
+      "spell": "Accio"
+    }
+  ]
+}
