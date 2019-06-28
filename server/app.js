@@ -6,6 +6,10 @@ const app = express();
 
 app.use(express.json());
 
+app.get('/', (req, res) => {
+  req.status(200).send('HELLOOOO')
+})
+
 app.get('/api/v1/spells', (req, res) => {
   database('spells').select()
     .then(spells => {
