@@ -10,6 +10,10 @@ app.get('/', (req, res) => {
   res.status(200).send('HELLOOOO')
 })
 
+app.get('/favicon.ico', (req, res) => {
+  res.status(200).send('HELLOOOO')
+})
+
 app.get('/api/v1/spells', (req, res) => {
   database('spells').select()
     .then(spells => {
