@@ -66,7 +66,6 @@ app.get('/api/v1/foundables/:id', (req, res) => {
 
 app.post('/api/v1/spells', (req, res) => {
   const newSpell = req.body;
-  console.log('body', newSpell);
   for (let requiredParameter of ['name', 'description', 'image_URL']) {
     if (!newSpell[requiredParameter]) {
       return res.status(422)
@@ -76,7 +75,7 @@ app.post('/api/v1/spells', (req, res) => {
 
   database('spells').insert(newSpell, 'id')
     .then(id => {
-      res.status(201).json({ id });
+      res.status(201).json({ id: id[0] });
     })
     .catch(error => {
       res.status(500).json({ error });
