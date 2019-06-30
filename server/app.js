@@ -66,7 +66,7 @@ app.get('/api/v1/foundables/:id', (req, res) => {
 
 app.post('/api/v1/spells', (req, res) => {
   const newSpell = req.body;
-
+  console,log('body', newSpell);
   for (let requiredParameter of ['name', 'description', 'image_URL']) {
     if (!newSpell[requiredParameter]) {
       return res.status(422)
