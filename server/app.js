@@ -114,8 +114,12 @@ app.delete('/api/v1/foundables/:id', (req, res) => {
   const { id } = req.params;
   database('foundables').where({ id }).del()
     .then(result => {
-      console.log(result);
-      res.status(204)
+      if (result) {
+        res.status(204).send();
+      } else {
+        res.status(404)
+          .json({ error: `No foundable found with the id of ${id}` });
+      }
     })
     .catch(error => {
       res.status(500).json({ error });
