@@ -28,7 +28,7 @@ const createFoundable = (knex, foundable, spellID) => {
     page: foundable.page,
     threat_level: foundable.threatLevel,
     description: foundable.description,
-    image_URL: foundable.iamge,
+    image_URL: foundable.image,
     spell_id: spellID[0]
   })
 }

@@ -81,8 +81,34 @@ app.post('/api/v1/spells', (req, res) => {
     .catch(error => {
       res.status(500).json({ error });
     });
+});
 
+app.post('/api/v1/foundables', (req, res) => {
+  const newFoundable = req.body;
+  const requiredParameters = ['name', 'family', 'page', 'threat_level', 'description', 'image_URL', 'spell']
   
+  for (let requiredParameter of requiredParameters) {
+    if (!foundable[requiredParameter]) {
+      return res.status(422)
+        .json({ error: `Foundable was not added, please make sure you include a ${requiredParameter}` })
+    }
+  }
+
+  database('spells').where({ name: newFoundable.spell }).select('id')
+    .then(spellId => {
+      if (!spellId) {
+        res.status(404)
+          .json({ error: `No spell found with the name ${newFoundable.spell}. Please choose an existing spell, or create a new spell.` })
+      } else {
+        database('foundables').insert({ ...newFoundable, spell_id: spellId }, 'id')
+          .then(newId => {
+            res.status(201).json({ newId });
+          })
+          .catch(error => {
+            res.status(500).json({ error });
+          });
+      }
+    });
 });
 
 
