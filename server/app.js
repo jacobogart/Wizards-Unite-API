@@ -24,5 +24,37 @@ app.get('/api/v1/spells', (req, res) => {
     });
 });
 
+app.get('/api/v1/foundables', (req, res) => {
+  database('foundables').select()
+    .then(foundables => {
+      res.status(200).json(foundables);
+    })
+    .catch(error => {
+      res.status(500).json({ error });
+    });
+});
+
+app.get('/api/v1/spells/:id', (req, res) => {
+  const { id } = req.params;
+  database('spells').where({ id }).select()
+    .then(spell => {
+      res.status(200).json(spell);
+    })
+    .catch(error => {
+      res.status(500).json({ error });
+    });
+});
+
+app.get('/api/v1/foundables/:id', (req, res) => {
+  const { id } = req.params;
+  database('foundables').where({ id }).select()
+    .then(foundable => {
+      res.status(200).json(foundable);
+    })
+    .catch(error => {
+      res.status(500).json({ error });
+    });
+});
+
 
 module.exports = app;
