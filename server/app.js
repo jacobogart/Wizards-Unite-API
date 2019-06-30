@@ -64,5 +64,26 @@ app.get('/api/v1/foundables/:id', (req, res) => {
     });
 });
 
+app.post('/api/v1/spells', (req, res) => {
+  const newSpell = req.body;
+
+  for (let requiredParameter of ['name', 'description', 'image_URL']) {
+    if (!spell[requiredParameter]) {
+      return res.status(422)
+        .json({ error: `Spell was not added, please make sure you include a ${requiredParameter}` })
+    }
+  }
+
+  database('spells').insert(newSpell, 'id')
+    .then(id => {
+      res.status(201).json({ id });
+    })
+    .catch(error => {
+      res.status(500).json({ error });
+    });
+
+  
+});
+
 
 module.exports = app;
