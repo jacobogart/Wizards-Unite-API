@@ -68,7 +68,7 @@ app.post('/api/v1/spells', (req, res) => {
   const newSpell = req.body;
 
   for (let requiredParameter of ['name', 'description', 'image_URL']) {
-    if (!spell[requiredParameter]) {
+    if (!newSpell[requiredParameter]) {
       return res.status(422)
         .json({ error: `Spell was not added, please make sure you include a ${requiredParameter}` })
     }
