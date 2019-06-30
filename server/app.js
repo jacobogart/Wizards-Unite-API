@@ -37,8 +37,12 @@ app.get('/api/v1/foundables', (req, res) => {
 app.get('/api/v1/spells/:id', (req, res) => {
   const { id } = req.params;
   database('spells').where({ id }).select()
-    .then(spell => {
-      res.status(200).json(spell);
+    .then(results => {
+      if (results.length) {
+        res.status(200).json(results[0]);
+      } else {
+        res.status(404).json({error: `No spells found with the id of ${id}`})
+      }
     })
     .catch(error => {
       res.status(500).json({ error });
@@ -48,8 +52,12 @@ app.get('/api/v1/spells/:id', (req, res) => {
 app.get('/api/v1/foundables/:id', (req, res) => {
   const { id } = req.params;
   database('foundables').where({ id }).select()
-    .then(foundable => {
-      res.status(200).json(foundable);
+    .then(results => {
+      if (results.length) {
+        res.status(200).json(results[0]);
+      } else {
+        res.status(404).json({ error: `No foundable found with the id of ${id}` })
+      }
     })
     .catch(error => {
       res.status(500).json({ error });
