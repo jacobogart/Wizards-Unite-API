@@ -131,3 +131,25 @@ Status: 200 OK
   updated_at: "2019-06-30T02:41:32.425Z"
 }
 ```
+
+### Create Spell
+
+`POST /api/v1/spells`
+
+#### Paramenters
+
+| Name         | Type    | Description                         |
+| ------------ |---------| ------------                        |
+| `name`       | `string`| Name of the spell                   |
+| `description`| `string`| Description of the spell's behavior |
+| `image_url`  | `string`| External link to image file         |
+
+#### Sample Response 
+```
+Status: 201 Created
+```
+ ```
+{
+ "id": 17
+}
+```
