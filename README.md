@@ -180,3 +180,16 @@ Status: 201 Created
 	id: 32
 }
 ```
+
+### Delete Foundable
+
+`DELETE /api/v1/foundable/:id`
+
+#### Paramenters
+
+None
+
+#### Sample Response 
+```
+Status: 204 No Content
+```
