@@ -150,6 +150,33 @@ Status: 201 Created
 ```
  ```
 {
- "id": 17
+	id: 17
+}
+```
+
+### Create Foundable
+
+`POST /api/v1/foundables`
+
+#### Paramenters
+
+| Name         | Type    | Description                                            |
+| ------------ |---------| ------------                                           |
+| `name`       | `string`| Name of the foundable                                  |
+| `family`     | `string`| Which family it belongs to in the registry             |
+| `page`       | `string`| Which page of the registry this foundable is placed on |
+| `threat_level`| `string`| Where the founable falls on the threat scale          |
+| `description`| `string`| Description of the spell's behavior                    |
+| `image_url`  | `string`| External link to image file                            |
+| `spell`       | `string`| The name of the spell used on this foundable          |
+
+
+#### Sample Response 
+```
+Status: 201 Created
+```
+ ```
+{
+	id: 32
 }
 ```
